@@ -37,7 +37,6 @@ To get started with AntiScrape-FastAPI-Defender, follow these steps:
 ## Configuration
 
 - Adjust rate limits, honeypot field names, and other settings in `server.py` to suit your requirements.
-- Obtain an API key from [Antideo](https://www.antideo.com/) for IP health checks and replace the placeholder in the `check_ip_health` function with your API key.
 - Optionally, integrate with other third-party IP health check services by modifying the `check_ip_health` function.
 
 ## Contributing
